@@ -1,0 +1,2 @@
+# CheatSheet
+Wizard Amigos CheatSheet
